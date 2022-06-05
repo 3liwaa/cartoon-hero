@@ -1,0 +1,53 @@
+body{
+	margin: 0px;
+   font-family: 'Dosis', sans-serif;
+   font-size: 20px	
+}
+
+header{
+	background-color: #810303;
+	text-align: center;
+	font-weight: bold ;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	font-size: 40px;
+
+}
+
+header img{
+	border-radius: 750px;
+	width: 300px;
+	border:5px solid black  ;
+}
+header h1 {
+		color: ghostwhite;	
+}
+main{
+	max-width:800px ;
+	margin: 0px auto;
+}
+main img{
+	max-width: 100%;
+}
+h2{
+	font-size: 35px;
+	color: #810303 ;
+}
+a {
+	color: #810303
+}
+a:hover{
+	color: green ;
+}
+footer{
+	background-color: #810303;
+	text-align: center;
+	font-weight: bold ;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	font-size: 40px;	
+}
+h3{
+	font-size: 35px;
+	color: #810303
+}
